@@ -1,4 +1,4 @@
-#import "lib/scibook.typ": *
+#import "@local/scibook:0.1.0": *
 #show: doc => conf(
   title: "数词与名词",
   author: ("github@ivaquero"),
