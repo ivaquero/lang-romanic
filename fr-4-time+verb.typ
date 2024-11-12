@@ -16,7 +16,7 @@
 #figure(
   ktable(data, 2),
   caption: "",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -26,7 +26,7 @@
 #figure(
   ktable(data, 2),
   caption: "",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -36,7 +36,7 @@
 #figure(
   ktable(data, 2),
   caption: "",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -46,7 +46,7 @@
 #figure(
   ktable(data, 2),
   caption: "",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 

@@ -14,7 +14,7 @@
 #figure(
   ktable(data, 4),
   caption: "颜色",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -24,7 +24,7 @@
 #figure(
   ktable(data, 4),
   caption: "反义词对",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 

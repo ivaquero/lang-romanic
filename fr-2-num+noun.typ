@@ -16,7 +16,7 @@
 #figure(
   ktable(data, 3),
   caption: "人称代词",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -37,7 +37,7 @@
 #figure(
   ktable(data, 2),
   caption: "特殊疑问词",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -58,7 +58,7 @@
 #figure(
   ktable(data, 3, inset: 0.4em),
   caption: "1-10",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -68,7 +68,7 @@
 #figure(
   ktable(data, 3),
   caption: "11-101",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
@@ -80,7 +80,7 @@
 #figure(
   ktable(data, 3, inset: .4em),
   caption: "",
-  supplement: [表],
+  supplement: "表",
   kind: table,
 )
 
