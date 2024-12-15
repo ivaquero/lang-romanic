@@ -12,15 +12,15 @@
 
 1. Pensez-vous que voyager est une sorte d'éducation ? Pourquoi ? Pourquoi pas ?
 
-Oui, je pense que voyager est une sorte d'éducation. Cela permet de découvrir de nouvelles cultures, d'apprendre des langues et d'acquérir une perspective mondiale. Cependant, pour certaines personnes, le voyage n'est pas une éducation si elles ne s'ouvrent pas à l'expérience et restent dans leur zone de confort.
+Oui, je pense que voyager est une éducation. Cela me permet de découvrir de nouvelles cultures, d'apprendre des langues et d'acquérir une perspective mondiale. Plus important encore, cela m’a permis d’entrer en contact avec le monde réel, car nous sommes souvent entourés de fausses nouvelles idéologiques qui nous apportent beaucoup de biais.
 
 2. Quel serait votre voyage de rêve ?
 
-Mon voyage de rêve serait de visiter des endroits historiques et culturels du monde entier, comme les Pyramides d'Égypte, la Grande Muraille de Chine, ou les ruines de Machu Picchu en Pérou.
+Je veux prendre un train pour traverser la Sibérie, mais je ne sais pas quand la guerre s'arrêtera.
 
 3. Qu'est-ce qui est important pour vous lors d'un voyage ?
 
-Il est important de respecter les coutumes locales, de se préparer pour les conditions météorologiques et de profiter de chaque moment pour apprendre et vivre pleinement l'expérience.
+Il est important de respecter les coutumes locales, de se préparer pour les conditions météorologiques et de profiter de chaque moment pour vivre pleinement l'expérience.
 
 4. Préparez-vous vos voyages avec des lectures et films ?
 
